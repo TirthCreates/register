@@ -1,0 +1,11 @@
+{
+  "description": "tirth.is-a.dev",
+  "repo": "https://github.com/TirthCreates/tirthcreates.github.io",
+  "owner": {
+    "username": "TirthCreates",
+    "email": "tirthparmar15@gmail.com"
+  },
+  "record": {
+    "CNAME": "tirthcreates.github.io"
+  }
+}
